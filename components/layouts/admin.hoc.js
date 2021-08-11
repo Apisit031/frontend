@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import AdminHeader from './admin.header'
+import React, { Component } from "react";
+import AdminHeader from './admin.header';
 import AdminSidebar from './admin.sidebar';
 import AdminFooter from './admin.footer';
 
