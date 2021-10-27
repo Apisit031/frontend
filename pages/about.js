@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <head>
-        <title>รับรักเขามาแต่เขาเอาคืนไปแล้ว</title>
+        <title>AdminLTE</title>
       </head>
       <div>
         <center>

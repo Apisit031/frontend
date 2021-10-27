@@ -18,11 +18,11 @@ export default function Home() {
   return (
     <div>
       <head>
-        <title>รับรักเขามาแต่เขาเอาคืนไปแล้ว</title>
+        <title>AdminLTE</title>
       </head>
       <div>
         <center>
-          <h1>Mr. Kasidit Phosai</h1>
+          <h1>Apisit Koompai</h1>
           <br />
           <Link href="/">
             <a>Home</a>

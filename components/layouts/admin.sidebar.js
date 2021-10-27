@@ -822,7 +822,7 @@ const AdminSidebar = () => {
             </div>
             <div className="info">
               <Link href="#">
-                <a className="d-block">Mr.Kasidit Phosai</a>
+                <a className="d-block">Apisit Koompai</a>
               </Link>
             </div>
           </div>
